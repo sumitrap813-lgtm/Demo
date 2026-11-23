@@ -1,3 +1,3 @@
 # Demo
 This is my first Git Repository.<br>
-Author - Shradha (Apna College)
+Author - Aditya Pal
